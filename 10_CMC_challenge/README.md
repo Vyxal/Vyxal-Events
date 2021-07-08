@@ -11,7 +11,7 @@ The challenges will be posted in [The Nineteenth Byte SE Chat](https://chat.stac
 [Lyxal](https://codegolf.stackexchange.com/users/78850/lyxal) planed to post the challenges after a month (contact him in the Vyxal / Nineteenth Byte Chat with @lyxal).
 
 ## How? (Not sure)
-The idea is to make a private Github repository that only the [Event Managers](https://github.com/orgs/Vyxal/teams/event-managers) can see.
+The idea is to make a private Github repository that only the [Event Managers](https://github.com/orgs/Vyxal/teams/event-managers/members) can see.
 
 ## Challenges
 Lyxal will hopefull post the Challenges here too.
